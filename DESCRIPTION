@@ -1,0 +1,14 @@
+Package: manivec
+Type: Package
+Title: Manipulate vectors
+Version: 0.1.0
+Author: Tanmay Fangal
+Maintainer: Tanmay Fangal <tanmay.fangal@student.amity.edu>
+Description: A package with basic functions to manipulate vectors.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.2.3
